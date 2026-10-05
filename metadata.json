@@ -1,0 +1,6 @@
+{
+  "name": "Declarô - Assistente Inteligente de IRPF",
+  "description": "Organize seus documentos, deduções e comprovantes para a declaração de Imposto de Renda com inteligência e segurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
